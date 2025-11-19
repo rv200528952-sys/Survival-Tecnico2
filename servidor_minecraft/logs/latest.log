@@ -1,0 +1,74 @@
+[21:59:15] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[21:59:15] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 21
+	- minecraft 1.21.1
+[21:59:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Survival-Tecnico2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:59:21] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:59:23] [main/INFO]: Loaded 1290 recipes
+[21:59:23] [main/INFO]: Loaded 1399 advancements
+[21:59:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:59:24] [Server thread/INFO]: Loading properties
+[21:59:24] [Server thread/INFO]: Default game type: SURVIVAL
+[21:59:24] [Server thread/INFO]: Generating keypair
+[21:59:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:59:24] [Server thread/INFO]: Using epoll channel type
+[21:59:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:59:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:59:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:59:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:59:24] [Server thread/INFO]: Preparing level "world1"
+[21:59:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:59:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:59:27] [Server thread/INFO]: Time elapsed: 530 ms
+[21:59:27] [Server thread/INFO]: Done (2.932s)! For help, type "help"
+[21:59:38] [Server thread/INFO]: S4R1_ETHN[/127.39.61.38:58075] logged in with entity id 10 at (-173.03086742305356, 70.0, 83.80548371736492)
+[21:59:38] [Server thread/INFO]: S4R1_ETHN joined the game
+[21:59:58] [Server thread/INFO]: S4R1_ETHN was killed
+[21:59:58] [Server thread/INFO]: Killed S4R1_ETHN
+[22:03:21] [Server thread/INFO]: S4R1_ETHN was shot by Skeleton
+[22:03:45] [Server thread/INFO]: S4R1_ETHN was shot by Skeleton
+[22:05:29] [Server thread/INFO]: S4R1_ETHN was blown up by Creeper
+[22:08:10] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:10:32] [Server thread/INFO]: S4R1_ETHN burned to death
+[22:14:33] [Server thread/INFO]: You whisper to S4R1_ETHN: ..
+[22:17:21] [Server thread/INFO]: S4R1_ETHN has made the advancement [The Parrots and the Bats]
+[22:20:56] [Server thread/INFO]: S4R1_ETHN was shot by Skeleton
+[22:34:55] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:35:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-150, y=63, z=132} class_2338{x=-149, y=62, z=133}
+[22:35:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-150, y=63, z=132} class_2338{x=-149, y=62, z=133}
+[22:35:32] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:37:08] [Server thread/INFO]: You whisper to S4R1_ETHN: ..
+[22:37:18] [Server thread/INFO]: Set the time to 13000
+[22:37:31] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:38:51] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:39:22] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:39:44] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:40:10] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:40:36] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:41:28] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[22:44:36] [Server thread/INFO]: Set the time to 1000
+[22:59:02] [Server thread/INFO]: [Not Secure] <S4R1_ETHN> e
+[22:59:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:59:07] [Server thread/INFO]: rom[pwewe<--[HERE]
+[22:59:11] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:59:11] [Server thread/INFO]: sori<--[HERE]
+[22:59:17] [Server thread/INFO]: Set the time to 1000
+[23:00:22] [Server thread/INFO]: Set the time to 13000
+[23:00:32] [Server thread/INFO]: S4R1_ETHN was slain by Iron Golem
+[23:25:08] [Server thread/INFO]: S4R1_ETHN was slain by Zombie
+[23:34:33] [Server thread/INFO]: You whisper to S4R1_ETHN: ..
+[23:35:51] [Server thread/INFO]: Stopping the server
+[23:35:51] [Server thread/INFO]: Stopping server
+[23:35:51] [Server thread/INFO]: Saving players
+[23:35:51] [Server thread/INFO]: S4R1_ETHN lost connection: Server closed
+[23:35:51] [Server thread/INFO]: S4R1_ETHN left the game
+[23:35:51] [Server thread/INFO]: Saving worlds
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:overworld
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:the_nether
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world1]'/minecraft:the_end
+[23:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world1): All chunks are saved
+[23:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:35:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
